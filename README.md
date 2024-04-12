@@ -1,4 +1,5 @@
 Tax Calculator
+
 Overview
 
 Tax Calculator is a simple tool designed to help individuals calculate their overall income after tax deductions. Whether you're planning your finances or just curious about how taxes impact your income, our user-friendly interface makes it easy to input your financial details and get accurate results.
